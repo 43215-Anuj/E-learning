@@ -8,8 +8,7 @@ export class Gallery extends Component {
           <div className="section-title">
             <h2>Gallery</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
+            Keep away from those who try to belittle your ambitions. Small people always do that, but the really great make you believe that you too can become great.
             </p>
           </div>
           <div className="row">

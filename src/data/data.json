@@ -83,18 +83,18 @@
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "img": "img/team/rishabh.jpg",
+            "name": "Rishabh Ilwadi",
+            "job": "Cloud Computing"
         },
         {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "img": "img/team/shubham.jpg",
+            "name": "Shubham Deep Singh",
+            "job": "UI/UX"
         }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "img": "img/team/santosh.jpg",
+            "name": "Santosh Kumar",
+            "job": "Data Science and Machine Learning"
         },
         {
             "img": "img/team/04.jpg",

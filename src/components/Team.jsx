@@ -8,8 +8,7 @@ export class Team extends Component {
           <div className="col-md-8 col-md-offset-2 section-title">
             <h2>Faculty</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
+            "A coach is someone who tells you what you don't want to hear, who has you see what you don't want to see, so you can be who you have always known you could be." -Tom Landry.
             </p>
           </div>
           <div id="row">
